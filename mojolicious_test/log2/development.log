@@ -1,0 +1,539 @@
+[Tue Jul 21 22:43:27 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:43:27 2015] [debug] GET "/"
+[Tue Jul 21 22:43:27 2015] [debug] Routing to controller "Test::Controller::Example" and action "welcome"
+[Tue Jul 21 22:43:27 2015] [debug] Rendering template "example/welcome.html.ep"
+[Tue Jul 21 22:43:27 2015] [debug] Rendering template "layouts/default.html.ep"
+[Tue Jul 21 22:43:27 2015] [debug] 200 OK (0.007365s, 135.777/s)
+[Tue Jul 21 22:43:31 2015] [debug] GET "/aa"
+[Tue Jul 21 22:43:31 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 22:43:31 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 22:43:31 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 22:43:31 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 22:43:31 2015] [debug] 404 Not Found (0.030776s, 32.493/s)
+[Tue Jul 21 22:45:02 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:46:57 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:46:57 2015] [debug] GET "/aa"
+[Tue Jul 21 22:46:57 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 22:46:57 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 22:46:57 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 22:46:57 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 22:46:57 2015] [debug] 404 Not Found (0.030640s, 32.637/s)
+[Tue Jul 21 22:48:18 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:48:18 2015] [debug] GET "/accounts"
+[Tue Jul 21 22:48:18 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 22:48:18 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 22:48:18 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 22:48:18 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 22:48:18 2015] [debug] 404 Not Found (0.031397s, 31.850/s)
+[Tue Jul 21 22:49:18 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:49:18 2015] [debug] GET "/accounts"
+[Tue Jul 21 22:49:18 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 22:49:18 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 22:49:18 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 22:49:18 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 22:49:18 2015] [debug] 404 Not Found (0.030460s, 32.830/s)
+[Tue Jul 21 22:50:17 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:50:17 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:50:17 2015] [debug] 200 OK (0.003926s, 254.712/s)
+[Tue Jul 21 22:50:56 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:50:56 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:50:56 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:50:56 2015] [debug] 200 OK (0.001728s, 578.704/s)
+[Tue Jul 21 22:51:00 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:00 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:00 2015] [debug] 200 OK (0.000460s, 2173.913/s)
+[Tue Jul 21 22:51:01 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:01 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:01 2015] [debug] 200 OK (0.000950s, 1052.632/s)
+[Tue Jul 21 22:51:01 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:01 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:01 2015] [debug] 200 OK (0.000528s, 1893.939/s)
+[Tue Jul 21 22:51:01 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:01 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:01 2015] [debug] 200 OK (0.001314s, 761.035/s)
+[Tue Jul 21 22:51:01 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:01 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:01 2015] [debug] 200 OK (0.000472s, 2118.644/s)
+[Tue Jul 21 22:51:22 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:51:22 2015] [debug] GET "/accounts"
+[Tue Jul 21 22:51:22 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 22:51:22 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 22:51:22 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 22:51:22 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 22:51:22 2015] [debug] 404 Not Found (0.028611s, 34.952/s)
+[Tue Jul 21 22:51:24 2015] [debug] GET "/accounts"
+[Tue Jul 21 22:51:24 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 22:51:24 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 22:51:24 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 22:51:24 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 22:51:24 2015] [debug] 404 Not Found (0.009130s, 109.529/s)
+[Tue Jul 21 22:51:24 2015] [debug] GET "/accounts"
+[Tue Jul 21 22:51:24 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 22:51:24 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 22:51:24 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 22:51:24 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 22:51:24 2015] [debug] 404 Not Found (0.010583s, 94.491/s)
+[Tue Jul 21 22:51:24 2015] [debug] GET "/accounts"
+[Tue Jul 21 22:51:24 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 22:51:24 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 22:51:24 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 22:51:24 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 22:51:24 2015] [debug] 404 Not Found (0.009150s, 109.290/s)
+[Tue Jul 21 22:51:44 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:51:44 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:44 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:44 2015] [debug] 200 OK (0.001302s, 768.049/s)
+[Tue Jul 21 22:51:50 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:51:50 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:50 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:50 2015] [debug] 200 OK (0.001412s, 708.215/s)
+[Tue Jul 21 22:51:51 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:51 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:51 2015] [debug] 200 OK (0.001409s, 709.723/s)
+[Tue Jul 21 22:51:52 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:52 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:52 2015] [debug] 200 OK (0.000453s, 2207.506/s)
+[Tue Jul 21 22:51:52 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:52 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:52 2015] [debug] 200 OK (0.000532s, 1879.699/s)
+[Tue Jul 21 22:51:52 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:52 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:52 2015] [debug] 200 OK (0.000535s, 1869.159/s)
+[Tue Jul 21 22:51:52 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:52 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:52 2015] [debug] 200 OK (0.000562s, 1779.359/s)
+[Tue Jul 21 22:51:53 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:53 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:53 2015] [debug] 200 OK (0.000508s, 1968.504/s)
+[Tue Jul 21 22:51:53 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:53 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:53 2015] [debug] 200 OK (0.001453s, 688.231/s)
+[Tue Jul 21 22:51:53 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:53 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:53 2015] [debug] 200 OK (0.000715s, 1398.601/s)
+[Tue Jul 21 22:51:53 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:53 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:53 2015] [debug] 200 OK (0.000507s, 1972.387/s)
+[Tue Jul 21 22:51:53 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:53 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:53 2015] [debug] 200 OK (0.000939s, 1064.963/s)
+[Tue Jul 21 22:51:54 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:54 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:54 2015] [debug] 200 OK (0.001282s, 780.031/s)
+[Tue Jul 21 22:51:54 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:54 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:54 2015] [debug] 200 OK (0.001729s, 578.369/s)
+[Tue Jul 21 22:51:54 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:54 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:54 2015] [debug] 200 OK (0.000449s, 2227.171/s)
+[Tue Jul 21 22:51:54 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:54 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:54 2015] [debug] 200 OK (0.000518s, 1930.502/s)
+[Tue Jul 21 22:51:55 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:55 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:55 2015] [debug] 200 OK (0.000467s, 2141.328/s)
+[Tue Jul 21 22:51:55 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:55 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:55 2015] [debug] 200 OK (0.000581s, 1721.170/s)
+[Tue Jul 21 22:51:55 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:51:55 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:55 2015] [debug] 200 OK (0.001320s, 757.576/s)
+[Tue Jul 21 22:51:58 2015] [debug] GET "/api/v1/accounts/1"
+[Tue Jul 21 22:51:58 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:51:58 2015] [debug] 200 OK (0.000895s, 1117.318/s)
+[Tue Jul 21 22:52:02 2015] [debug] GET "/api/v1/accounts/2"
+[Tue Jul 21 22:52:02 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:52:02 2015] [debug] 200 OK (0.001114s, 897.666/s)
+[Tue Jul 21 22:52:37 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:52:37 2015] [debug] GET "/api/v1/accounts/2"
+[Tue Jul 21 22:52:37 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:52:37 2015] [debug] 200 OK (0.001645s, 607.903/s)
+[Tue Jul 21 22:52:40 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:52:40 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:52:40 2015] [debug] 200 OK (0.001238s, 807.754/s)
+[Tue Jul 21 22:52:41 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:52:41 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:52:41 2015] [debug] 200 OK (0.000598s, 1672.241/s)
+[Tue Jul 21 22:52:42 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:52:42 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:52:42 2015] [debug] 200 OK (0.000520s, 1923.077/s)
+[Tue Jul 21 22:52:42 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:52:42 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:52:42 2015] [debug] 200 OK (0.000543s, 1841.621/s)
+[Tue Jul 21 22:52:42 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:52:42 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:52:42 2015] [debug] 200 OK (0.000551s, 1814.882/s)
+[Tue Jul 21 22:53:00 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:53:00 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:53:00 2015] [debug] 200 OK (0.000548s, 1824.818/s)
+[Tue Jul 21 22:53:03 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:53:03 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:53:03 2015] [debug] 200 OK (0.000517s, 1934.236/s)
+[Tue Jul 21 22:53:11 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:53:11 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:53:11 2015] [debug] 200 OK (0.000562s, 1779.359/s)
+[Tue Jul 21 22:53:46 2015] [debug] GET "/api/v1/accountsa"
+[Tue Jul 21 22:53:46 2015] [debug] 404 Not Found (0.001863s, 536.769/s)
+[Tue Jul 21 22:53:49 2015] [debug] GET "/api/v1/accountsa"
+[Tue Jul 21 22:53:49 2015] [debug] 404 Not Found (0.000582s, 1718.213/s)
+[Tue Jul 21 22:53:50 2015] [debug] GET "/api/v1/accountsa"
+[Tue Jul 21 22:53:50 2015] [debug] 404 Not Found (0.000586s, 1706.485/s)
+[Tue Jul 21 22:53:52 2015] [debug] GET "/api/v1/accountsa"
+[Tue Jul 21 22:53:52 2015] [debug] 404 Not Found (0.000567s, 1763.668/s)
+[Tue Jul 21 22:53:52 2015] [debug] GET "/api/v1/accountsa"
+[Tue Jul 21 22:53:52 2015] [debug] 404 Not Found (0.000577s, 1733.102/s)
+[Tue Jul 21 22:53:54 2015] [debug] GET "/api/v1/accountsa"
+[Tue Jul 21 22:53:54 2015] [debug] 404 Not Found (0.000564s, 1773.050/s)
+[Tue Jul 21 22:53:55 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:53:55 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:53:55 2015] [debug] 200 OK (0.000549s, 1821.494/s)
+[Tue Jul 21 22:54:07 2015] [debug] GET "/api/v1/accountsaa"
+[Tue Jul 21 22:54:07 2015] [debug] 404 Not Found (0.000602s, 1661.130/s)
+[Tue Jul 21 22:54:12 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:54:12 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:54:12 2015] [debug] 200 OK (0.000680s, 1470.588/s)
+[Tue Jul 21 22:57:01 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:57:01 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:57:01 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:57:01 2015] [debug] 200 OK (0.001874s, 533.618/s)
+[Tue Jul 21 22:57:09 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:57:09 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:57:09 2015] [debug] 200 OK (0.000600s, 1666.667/s)
+[Tue Jul 21 22:57:10 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:57:10 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:57:10 2015] [debug] 200 OK (0.000724s, 1381.215/s)
+[Tue Jul 21 22:57:11 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 22:57:11 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 22:57:11 2015] [debug] 200 OK (0.000557s, 1795.332/s)
+[Tue Jul 21 22:59:35 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:59:35 2015] [debug] test begin
+[Tue Jul 21 22:59:48 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 22:59:48 2015] [debug] test begin
+[Tue Jul 21 23:00:10 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 23:00:10 2015] [debug] test begin
+[Tue Jul 21 23:00:17 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:00:17 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 23:00:17 2015] [debug] 200 OK (0.001764s, 566.893/s)
+[Tue Jul 21 23:00:18 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:00:18 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 23:00:18 2015] [debug] 200 OK (0.000618s, 1618.123/s)
+[Tue Jul 21 23:00:18 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:00:18 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 23:00:18 2015] [debug] 200 OK (0.000670s, 1492.537/s)
+[Tue Jul 21 23:00:18 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:00:18 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 23:00:18 2015] [debug] 200 OK (0.000555s, 1801.802/s)
+[Tue Jul 21 23:00:24 2015] [debug] GET "/api/v1/accountsa"
+[Tue Jul 21 23:00:24 2015] [debug] 404 Not Found (0.002011s, 497.265/s)
+[Tue Jul 21 23:00:28 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:00:28 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 23:00:28 2015] [debug] 200 OK (0.000560s, 1785.714/s)
+[Tue Jul 21 23:02:57 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 21 23:02:57 2015] [debug] test begin
+[Tue Jul 21 23:03:02 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:03:02 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 23:03:02 2015] [debug] 200 OK (0.002001s, 499.750/s)
+[Tue Jul 21 23:05:31 2015] [debug] GET "/a"
+[Tue Jul 21 23:05:31 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 23:05:31 2015] [debug] Template "account/list_account.html.ep" not found
+[Tue Jul 21 23:05:31 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 23:05:31 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 23:05:31 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 23:05:31 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 23:05:31 2015] [debug] 404 Not Found (0.038961s, 25.667/s)
+[Tue Jul 21 23:07:13 2015] [debug] GET "/a"
+[Tue Jul 21 23:07:13 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 23:07:13 2015] [debug] Template "account/list_account.html.ep" not found
+[Tue Jul 21 23:07:13 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 23:07:13 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 23:07:13 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 23:07:13 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 23:07:13 2015] [debug] 404 Not Found (0.030626s, 32.652/s)
+[Tue Jul 21 23:07:43 2015] [debug] GET "/a"
+[Tue Jul 21 23:07:43 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 23:07:43 2015] [debug] Template "account/list_account.html.ep" not found
+[Tue Jul 21 23:07:43 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 23:07:43 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 23:07:43 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 23:07:43 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 23:07:43 2015] [debug] 404 Not Found (0.030135s, 33.184/s)
+[Tue Jul 21 23:08:19 2015] [debug] GET "/a"
+[Tue Jul 21 23:08:19 2015] [debug] Class "Test::Controller::Account" is not a controller
+[Tue Jul 21 23:08:19 2015] [debug] Template "account/list_account.html.ep" not found
+[Tue Jul 21 23:08:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 23:08:19 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 23:08:19 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 23:08:19 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 23:08:19 2015] [debug] 404 Not Found (0.041325s, 24.198/s)
+[Tue Jul 21 23:09:38 2015] [debug] GET "/a"
+[Tue Jul 21 23:09:38 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:09:38 2015] [debug] test begin
+[Tue Jul 21 23:09:38 2015] [debug] 200 OK (0.002336s, 428.082/s)
+[Tue Jul 21 23:09:53 2015] [debug] GET "/a"
+[Tue Jul 21 23:09:53 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 21 23:09:53 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 21 23:09:53 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 23:09:53 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 23:09:53 2015] [debug] 404 Not Found (0.029300s, 34.130/s)
+[Tue Jul 21 23:10:04 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:10:04 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:10:04 2015] [debug] test begin
+[Tue Jul 21 23:10:04 2015] [debug] 200 OK (0.001789s, 558.971/s)
+[Tue Jul 21 23:11:23 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:11:23 2015] [error] Can't modify constant item in scalar assignment at lib/Test/Controller/Account.pm line 10, near ""heelo world")"
+Compilation failed in require at (eval 51) line 1.
+
+[Tue Jul 21 23:11:23 2015] [debug] 500 Internal Server Error (0.003747s, 266.880/s)
+[Tue Jul 21 23:11:37 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:11:37 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:11:37 2015] [debug] test begin
+[Tue Jul 21 23:11:37 2015] [debug] 200 OK (0.003782s, 264.410/s)
+[Tue Jul 21 23:12:26 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:12:26 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:12:26 2015] [debug] 200 OK (0.001910s, 523.560/s)
+[Tue Jul 21 23:12:28 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:12:28 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:12:28 2015] [debug] 200 OK (0.000539s, 1855.288/s)
+[Tue Jul 21 23:12:28 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:12:28 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:12:28 2015] [debug] 200 OK (0.000497s, 2012.072/s)
+[Tue Jul 21 23:12:28 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:12:28 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:12:28 2015] [debug] 200 OK (0.000503s, 1988.072/s)
+[Tue Jul 21 23:12:29 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:12:29 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:12:29 2015] [debug] 200 OK (0.000509s, 1964.637/s)
+[Tue Jul 21 23:12:29 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:12:29 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:12:29 2015] [debug] 200 OK (0.000488s, 2049.180/s)
+[Tue Jul 21 23:13:03 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:13:03 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:13:03 2015] [debug] 200 OK (0.002010s, 497.512/s)
+[Tue Jul 21 23:13:16 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:13:16 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:13:16 2015] [debug] 200 OK (0.001885s, 530.504/s)
+[Tue Jul 21 23:13:32 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:13:32 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:13:32 2015] [debug] 200 OK (0.001923s, 520.021/s)
+[Tue Jul 21 23:14:24 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:14:24 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:14:24 2015] [debug] 200 OK (0.001830s, 546.448/s)
+[Tue Jul 21 23:14:30 2015] [debug] GET "/a"
+[Tue Jul 21 23:14:30 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:14:30 2015] [debug] 200 OK (0.000850s, 1176.471/s)
+[Tue Jul 21 23:14:55 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:14:55 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:14:55 2015] [debug] 200 OK (0.000531s, 1883.239/s)
+[Tue Jul 21 23:18:21 2015] [debug] GET "/a"
+[Tue Jul 21 23:18:21 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:18:21 2015] [debug] Rendering template "example/welcome.html.ep"
+[Tue Jul 21 23:18:21 2015] [error] Global symbol "$msg" requires explicit package name at template example/welcome.html.ep line 3.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $msg %></h2>
+4: This page was generated from the template "templates/example/welcome.html.ep"
+5: and the layout "templates/layouts/default.html.ep",
+6: <%= link_to 'click here' => url_for %> to reload the page or
+7: <%= link_to 'here' => '/index.html' %> to move forward to a static page. To
+8: learn more, you can also browse through the documentation
+
+[Tue Jul 21 23:18:21 2015] [debug] Template "exception.development.html.ep" not found
+[Tue Jul 21 23:18:21 2015] [debug] Template "exception.html.ep" not found
+[Tue Jul 21 23:18:21 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 21 23:18:21 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 21 23:18:21 2015] [debug] 500 Internal Server Error (0.037016s, 27.015/s)
+[Tue Jul 21 23:18:45 2015] [debug] GET "/a"
+[Tue Jul 21 23:18:45 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:18:45 2015] [debug] Rendering template "example/welcome.html.ep"
+[Tue Jul 21 23:18:45 2015] [debug] Rendering template "layouts/default.html.ep"
+[Tue Jul 21 23:18:45 2015] [debug] 200 OK (0.007729s, 129.383/s)
+[Tue Jul 21 23:18:59 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:18:59 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:18:59 2015] [debug] 200 OK (0.000799s, 1251.564/s)
+[Tue Jul 21 23:23:11 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:23:11 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:23:11 2015] [debug] 200 OK (0.000493s, 2028.398/s)
+[Tue Jul 21 23:23:45 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:23:45 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:23:45 2015] [debug] 200 OK (0.001903s, 525.486/s)
+[Tue Jul 21 23:23:55 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:23:55 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:23:55 2015] [debug] 200 OK (0.001971s, 507.357/s)
+[Tue Jul 21 23:24:10 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:24:10 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:24:10 2015] [debug] 200 OK (0.000475s, 2105.263/s)
+[Tue Jul 21 23:25:30 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:25:30 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:25:30 2015] [debug] 200 OK (0.000510s, 1960.784/s)
+[Tue Jul 21 23:56:32 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:56:32 2015] [error] Missing right curly or square bracket at lib/Test/Controller/Account.pm line 29, at end of line
+syntax error at lib/Test/Controller/Account.pm line 29, at EOF
+Compilation failed in require at (eval 51) line 1.
+
+[Tue Jul 21 23:56:32 2015] [debug] 500 Internal Server Error (0.004010s, 249.377/s)
+[Tue Jul 21 23:56:46 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:56:46 2015] [debug] Routing to controller "Test::Controller::Account" and action "list_account"
+[Tue Jul 21 23:56:46 2015] [debug] 200 OK (0.001255s, 796.813/s)
+[Tue Jul 21 23:56:53 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:56:53 2015] [debug] Routing to controller "Test::Controller::Account" and action "create_account"
+[Tue Jul 21 23:56:53 2015] [debug] 200 OK (0.000568s, 1760.563/s)
+[Tue Jul 21 23:56:59 2015] [debug] GET "/api/v1/accounts"
+[Tue Jul 21 23:56:59 2015] [debug] Routing to controller "Test::Controller::Account" and action "create_account"
+[Tue Jul 21 23:56:59 2015] [debug] 200 OK (0.000559s, 1788.909/s)
+[Tue Jul 21 23:57:11 2015] [debug] GET "/api/v1/accounts/aa"
+[Tue Jul 21 23:57:11 2015] [debug] 404 Not Found (0.000845s, 1183.432/s)
+[Tue Jul 21 23:57:34 2015] [debug] GET "/api/v1/accounts/aa"
+[Tue Jul 21 23:57:34 2015] [debug] Routing to controller "Test::Controller::Account" and action "read_account"
+[Tue Jul 21 23:57:34 2015] [debug] Action not found in controller
+[Tue Jul 21 23:57:34 2015] [debug] 200 OK (0.000769s, 1300.390/s)
+[Tue Jul 21 23:57:37 2015] [debug] GET "/api/v1/accounts/aa"
+[Tue Jul 21 23:57:37 2015] [debug] Routing to controller "Test::Controller::Account" and action "read_account"
+[Tue Jul 21 23:57:37 2015] [debug] Action not found in controller
+[Tue Jul 21 23:57:37 2015] [debug] 200 OK (0.000534s, 1872.659/s)
+[Tue Jul 21 23:57:39 2015] [debug] GET "/api/v1/accounts/aa"
+[Tue Jul 21 23:57:39 2015] [debug] Routing to controller "Test::Controller::Account" and action "read_account"
+[Tue Jul 21 23:57:39 2015] [debug] Action not found in controller
+[Tue Jul 21 23:57:39 2015] [debug] 200 OK (0.000516s, 1937.984/s)
+[Tue Jul 21 23:58:01 2015] [debug] GET "/api/v1/accounts/aa"
+[Tue Jul 21 23:58:01 2015] [debug] Routing to controller "Test::Controller::Account" and action "read_account"
+[Tue Jul 21 23:58:01 2015] [debug] Action not found in controller
+[Tue Jul 21 23:58:01 2015] [debug] 200 OK (0.000564s, 1773.050/s)
+[Tue Jul 21 23:58:25 2015] [debug] GET "/api/v1/accounts/aa"
+[Tue Jul 21 23:58:25 2015] [debug] Routing to controller "Test::Controller::Account" and action "read_account"
+[Tue Jul 21 23:58:25 2015] [debug] Action not found in controller
+[Tue Jul 21 23:58:25 2015] [debug] 200 OK (0.000623s, 1605.136/s)
+[Tue Jul 21 23:58:30 2015] [debug] GET "/api/v1/accounts/aa"
+[Tue Jul 21 23:58:30 2015] [debug] Routing to controller "Test::Controller::Account" and action "read_account"
+[Tue Jul 21 23:58:30 2015] [debug] Action not found in controller
+[Tue Jul 21 23:58:30 2015] [debug] 200 OK (0.000495s, 2020.202/s)
+[Tue Jul 21 23:58:34 2015] [debug] GET "/api/v1/accounts/a"
+[Tue Jul 21 23:58:34 2015] [debug] Routing to controller "Test::Controller::Account" and action "read_account"
+[Tue Jul 21 23:58:34 2015] [debug] Action not found in controller
+[Tue Jul 21 23:58:34 2015] [debug] 200 OK (0.000758s, 1319.261/s)
+[Tue Jul 28 00:16:01 2015] [debug] GET "/"
+[Tue Jul 28 00:16:01 2015] [debug] Routing to controller "Test::Controller::Example" and action "welcome"
+[Tue Jul 28 00:16:01 2015] [debug] Rendering template "example/welcome.html.ep"
+[Tue Jul 28 00:16:01 2015] [debug] Rendering template "layouts/default.html.ep"
+[Tue Jul 28 00:16:01 2015] [debug] 200 OK (0.141816s, 7.051/s)
+[Tue Jul 28 00:16:05 2015] [debug] GET "/aaa"
+[Tue Jul 28 00:16:05 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 28 00:16:05 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 28 00:16:05 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 28 00:16:05 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 28 00:16:05 2015] [debug] 404 Not Found (0.029352s, 34.069/s)
+[Tue Jul 28 23:54:48 2015] [debug] GET "/aaa"
+[Tue Jul 28 23:54:48 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 28 23:54:48 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 28 23:54:48 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 28 23:54:48 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 28 23:54:48 2015] [debug] 404 Not Found (0.028861s, 34.649/s)
+[Tue Jul 28 23:54:50 2015] [debug] GET "/aaa"
+[Tue Jul 28 23:54:50 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 28 23:54:50 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 28 23:54:50 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 28 23:54:50 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 28 23:54:50 2015] [debug] 404 Not Found (0.013056s, 76.593/s)
+[Tue Jul 28 23:55:21 2015] [debug] GET "/indx/bb"
+[Tue Jul 28 23:55:21 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 28 23:55:21 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 28 23:55:21 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 28 23:55:21 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 28 23:55:21 2015] [debug] 404 Not Found (0.012472s, 80.180/s)
+[Tue Jul 28 23:56:12 2015] [debug] GET "/indx/bb"
+[Tue Jul 28 23:56:12 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 28 23:56:12 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 28 23:56:12 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 28 23:56:12 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 28 23:56:12 2015] [debug] 404 Not Found (0.028233s, 35.420/s)
+[Wed Jul 29 00:16:45 2015] [debug] GET "/indx/bb"
+[Wed Jul 29 00:16:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 00:16:45 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 00:16:45 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 00:16:45 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 00:16:45 2015] [debug] 404 Not Found (0.033177s, 30.141/s)
+[Wed Jul 29 00:17:13 2015] [debug] GET "/indx/bb"
+[Wed Jul 29 00:17:13 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 00:17:13 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 00:17:13 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 00:17:13 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 00:17:13 2015] [debug] 404 Not Found (0.009042s, 110.595/s)
+[Wed Jul 29 00:17:15 2015] [debug] GET "/indx/bb"
+[Wed Jul 29 00:17:15 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 00:17:15 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 00:17:15 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 00:17:15 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 00:17:15 2015] [debug] 404 Not Found (0.009184s, 108.885/s)
+[Wed Jul 29 00:17:36 2015] [debug] GET "/"
+[Wed Jul 29 00:17:36 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 00:17:36 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 00:17:36 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 00:17:36 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 00:17:36 2015] [debug] 404 Not Found (0.016160s, 61.881/s)
+[Wed Jul 29 00:17:45 2015] [debug] GET "/accounts"
+[Wed Jul 29 00:17:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 00:17:45 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 00:17:45 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 00:17:45 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 00:17:45 2015] [debug] 404 Not Found (0.013593s, 73.567/s)
+[Wed Jul 29 00:18:08 2015] [debug] GET "/api/accounts"
+[Wed Jul 29 00:18:08 2015] [error] Missing right curly or square bracket at lib/Test/Controller/Account.pm line 29, at end of line
+syntax error at lib/Test/Controller/Account.pm line 29, at EOF
+Compilation failed in require at (eval 53) line 1.
+
+[Wed Jul 29 00:18:08 2015] [debug] Template "exception.development.html.ep" not found
+[Wed Jul 29 00:18:08 2015] [debug] Template "exception.html.ep" not found
+[Wed Jul 29 00:18:08 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 00:18:09 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 00:18:09 2015] [debug] 500 Internal Server Error (0.036637s, 27.295/s)
+[Wed Jul 29 00:18:20 2015] [debug] GET "/api/accountsa"
+[Wed Jul 29 00:18:20 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 00:18:20 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 00:18:20 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 00:18:20 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 00:18:20 2015] [debug] 404 Not Found (0.014510s, 68.918/s)
+[Wed Jul 29 00:30:40 2015] [debug] GET "/api/accountsa"
+[Wed Jul 29 00:30:40 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 00:30:40 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 00:30:40 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 00:30:40 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 00:30:40 2015] [debug] 404 Not Found (0.031207s, 32.044/s)
+[Wed Jul 29 23:30:02 2015] [debug] GET "/"
+[Wed Jul 29 23:30:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 23:30:02 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 23:30:02 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 23:30:02 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 23:30:02 2015] [debug] 404 Not Found (0.030776s, 32.493/s)
+[Wed Jul 29 23:30:22 2015] [debug] GET "/"
+[Wed Jul 29 23:30:22 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 23:30:22 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 23:30:22 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 23:30:22 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 23:30:22 2015] [debug] 404 Not Found (0.009337s, 107.101/s)
+[Wed Jul 29 23:30:31 2015] [debug] GET "/"
+[Wed Jul 29 23:30:31 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 23:30:31 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 23:30:31 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 23:30:31 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 23:30:31 2015] [debug] 404 Not Found (0.011450s, 87.336/s)
+[Wed Jul 29 23:31:59 2015] [debug] GET "/"
+[Wed Jul 29 23:31:59 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 23:31:59 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 23:31:59 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 23:31:59 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 23:31:59 2015] [debug] 404 Not Found (0.053388s, 18.731/s)
+[Wed Jul 29 23:35:58 2015] [debug] GET "/"
+[Wed Jul 29 23:35:58 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed Jul 29 23:35:58 2015] [debug] Template "not_found.html.ep" not found
+[Wed Jul 29 23:35:58 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed Jul 29 23:35:58 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed Jul 29 23:35:58 2015] [debug] 404 Not Found (0.052654s, 18.992/s)
+[Wed Jul 29 23:37:15 2015] [debug] GET "/api/accounts"
+[Wed Jul 29 23:37:15 2015] [error] Missing right curly or square bracket at lib/Test/Controller/Account.pm line 29, at end of line
+syntax error at lib/Test/Controller/Account.pm line 29, at EOF
+Compilation failed in require at (eval 51) line 1.
+
+[Wed Jul 29 23:37:15 2015] [debug] 500 Internal Server Error (0.003318s, 301.386/s)
+[Wed Jul 29 23:37:35 2015] [debug] GET "/api/accounts/aa"
+[Wed Jul 29 23:37:35 2015] [debug] Routing to controller "Test::Controller::Account" and action "read_account"
+[Wed Jul 29 23:37:35 2015] [debug] Action not found in controller
+[Wed Jul 29 23:37:35 2015] [debug] 200 OK (0.001265s, 790.514/s)
